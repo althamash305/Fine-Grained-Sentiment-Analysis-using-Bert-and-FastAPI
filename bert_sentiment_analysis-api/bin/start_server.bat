@@ -1,0 +1,1 @@
+uvicorn sentiment_analyzer.api:app
